@@ -24,3 +24,6 @@ Alternatively, you can input your own program into stdin followed by a empty
 ## IMPORTANT
 
 The input file must have `CRLF` line endings or the program will loop forever.
+
+It is also recommended to minify the code before passing it to the interpreter,
+as some characters like the quotation mark might prove to be problematic.
