@@ -12,7 +12,7 @@ Brainfuck has been proven to be turing complete (In fact, it was created to be
 
 Executing is easy:
 
-    $ interpreter < hello.bf > CON
+    $ interpreter < examples/hello.bf > CON
 
 Alternatively, you can input your own program into stdin followed by a empty
  line and a `CTRL + Z` keypress to input a EOF character and start the program:
