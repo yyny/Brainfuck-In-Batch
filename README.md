@@ -6,7 +6,7 @@ You can learn more about brainfuck [here](https://esolangs.org/wiki/Brainfuck).
 
 Brainfuck has been proven to be turing complete (In fact, it was created to be
  turing complete and to run on the smallest interpreter), meaning batch is
- turning complete too!
+ turing complete too!
 
 ## Execute it!
 
